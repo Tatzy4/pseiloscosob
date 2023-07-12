@@ -1,19 +1,6 @@
-<div id="top"></div>
+<p align="center">
+  <img align="center" width="100" src="https://cdn.discordapp.com/attachments/810916350427136010/1128506296388300811/evrima-z.png" />
 
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://store.tatzy.xyz/">
-    <img src="https://cdn.discordapp.com/attachments/1108868709184966796/1128505254867107891/Screenshot_20220930-2337532.png" alt="Logo" width="35%">
-  </a>
-
-<h2 align="center">TPSE PLAYER COUNTER</h2>
-
-  <p align="center">
-    Repository for showing players from my evrima server on my website https://store.tatzy.xyz/
-  </p>
-    <p align="center">
-       Btw. just used some python and html
-  </p>
-  
-</div>
+  <h1 align="center">PSE PLAYER COUNTER</h1>
+  <h3 align="center">Git repository to viewing players from evrima on website.</h3>
+</p>
