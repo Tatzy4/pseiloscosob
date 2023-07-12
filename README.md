@@ -7,18 +7,32 @@
 
 <!-- Badges -->
 <p align="center">
-  <a href="https://discord.gg/evrimapl" target="_blank"><img alt="Discord" src="https://img.shields.io/discord/1234567890?color=7289DA&label=Discord&logo=discord&logoColor=white"></a>
+  <a href="https://discord.gg/1108625935302922240" target="_blank"><img alt="Discord" src="https://img.shields.io/discord/1108625935302922240?color=7289DA&label=Discord&logo=discord&logoColor=white"></a>
   <a href="https://store.tatzy.xyz/" target="_blank"><img alt="Webstore" src="https://img.shields.io/badge/Webstore-Tatzy.xyz-9cf"></a>
 </p>
 
-## About The Project ❔
+## :information_source: About The Project
 
-This repository is for my website that uses **`player_count.txt`** to display the number of players online in Evrima.
-The **`player_count.txt`** file is updated automatically by my Git bot connected to the Evrima server.
-Currently, I'm not sharing the source code as I'm focusing on maintaining stability and security.
-We take pride in being the first in The Isle community.
+This repository is dedicated to my website that features a player counter for the Evrima server.
+The player count is retrieved from the **`player_count.txt`** file, which is automatically updated by my Git bot connected to the Evrima server.
+As a result, visitors to the website can easily keep track of the number of players online.
+We take great pride in being at the forefront of The Isle community.
 
-## Other Projects
+## :computer: Other Projects
 
 - [Evrima Discord Bot](https://github.com/Tatzy4/evrima-discord-bot)
 - [Evrima Discord Commands](https://github.com/Tatzy4/evrima-discord-bot-command)
+
+## :globe_with_meridians: Connect with Us
+
+- Join us on [Discord](https://discord.gg/1108625935302922240) for discussions and updates.
+- Visit our [webstore](https://store.tatzy.xyz/) for more exciting offerings.
+
+## :rocket: Contributing
+
+Contributions are welcome! If you have any ideas or suggestions to improve this project, please feel free to open an issue or submit a pull request.
+
+## :page_facing_up: License
+
+This project is licensed under the [MIT License](LICENSE).
+
