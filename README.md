@@ -7,7 +7,6 @@
 
 <!-- Badges -->
 <p align="center">
-  <a href="https://discord.gg/1108625935302922240" target="_blank"><img alt="Discord" src="https://img.shields.io/discord/1108625935302922240?color=7289DA&label=Discord&logo=discord&logoColor=white"></a>
   <a href="https://store.tatzy.xyz/" target="_blank"><img alt="Webstore" src="https://img.shields.io/badge/Webstore-Tatzy.xyz-9cf"></a>
 </p>
 
@@ -20,6 +19,7 @@ We take great pride in being at the forefront of The Isle community.
 
 ## 💻 Other Projects
 
+- [![Discord](https://img.shields.io/discord/876609014945382962?color=%237289DA&label=Discord&logo=discord&logoColor=white)](https://discord.gg/wZhcjuR3SD)
 - [Evrima Discord Bot](https://github.com/Tatzy4/evrima-discord-bot)
 - [Evrima Discord Commands](https://github.com/Tatzy4/evrima-discord-bot-command)
 
